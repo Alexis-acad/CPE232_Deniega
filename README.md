@@ -6,7 +6,7 @@ This is my first repository for the course CPE 212 - Automating Server Managemen
 This was from an activity on how to set up Git using Ubuntu.
 
 ## What does it do?
-Absolutely **nothing** lol.
+Do some Ansible ig...
 
 ### Example table
 
@@ -14,3 +14,4 @@ Absolutely **nothing** lol.
 | :--- | ---: |
 | Subject | CPE212 |
 | Date | August 15th |
+| Lesson 4 | **ANSIBLE** |
